@@ -1,0 +1,8 @@
+LỬA THÀNH CỔ – THƯ MỜI KÉO LÊN
+
+- Mở config.js để sửa tên, ngày giờ, địa điểm và toàn bộ lời mời.
+- Bìa sử dụng ảnh nền tham chiếu bạn đã gửi: assets/lua-thanh-co-background.png.
+- Người xem chạm nút KÉO LÊN MỞ THƯ hoặc vuốt lên vùng tay nắm; tờ thư trượt từ dưới màn hình lên.
+- Có thể vuốt/kéo xuống hoặc nhấn THU THƯ LẠI để đóng.
+- Nhạc nền tùy chọn: chép MP3 vào assets/audio/ rồi khai báo đường dẫn trong config.js.
+- Font Google và không có thư viện lật sách; cần Internet để tải font. Có thể mở index.html trực tiếp.
