@@ -6,7 +6,7 @@ window.INVITATION_CONFIG = {
   coverTagline: "QUAN HỆ CÔNG CHÚNG - K12",
   dateShort: "25/11/2026",
   letterKicker: "TRÂN TRỌNG KÍNH MỜI",
-  letterHeading: "Lời hiệu triệu từ Thành Cổ",
+  letterHeading: "Lửa Thành Cổ",
   greeting: "Kính gửi Quý vị khách quý,",
   intro: "Có những vùng đất lưu giữ ký ức của một dân tộc. Có những ngọn lửa đi qua năm tháng vẫn âm ỉ cháy trong trái tim mỗi người Việt. Từ cảm hứng ấy, chúng tôi trân trọng gửi đến bạn lời mời tham dự sự kiện “Lửa Thành Cổ” – nơi lịch sử, văn hóa và tinh thần Việt cùng hội tụ.",
   meaningTitle: "Thắp lửa từ cội nguồn",
